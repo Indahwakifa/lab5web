@@ -8,4 +8,6 @@
 
 ![foto](https://github.com/Indahwakifa/lab5web/blob/0b53e008ae465005107683f824a925b6eae55046/foto/jvs4.png)
 
+![foto](https://github.com/Indahwakifa/lab5web/blob/e2c1e282fcd130a8a780592e24b3d5821762bfcd/foto/jvs5.png)
+
 ![foto](
