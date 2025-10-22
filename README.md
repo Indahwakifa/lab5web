@@ -4,4 +4,6 @@
 
 ![foto](https://github.com/Indahwakifa/lab5web/blob/f8a622895af8094bb131ed2444d4bb679c69003f/foto/jvs2.jpg)
 
+![foto](https://github.com/Indahwakifa/lab5web/blob/1b114735fed3b18344fc68e17105bf3d2f306c4a/foto/jvs3.png)
+
 ![foto](
