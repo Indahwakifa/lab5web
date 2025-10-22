@@ -4,14 +4,14 @@
 
 **penjelasan**
 
-'''Penjelasan singkatnya
+```Penjelasan singkatnya
 
 window.alert("...") → munculkan kotak pesan (alert box).
 
 document.write("...") → tampilkan teks langsung di halaman web.
 
 console.log("...") → kirim pesan ke console browser.
-'''
+```
 
 **gambar 2**
 
@@ -19,7 +19,7 @@ console.log("...") → kirim pesan ke console browser.
 
 **penjelasan**
 
-'''Penjelasan:
+```Penjelasan:
 
 document.write() menulis teks ke halaman web.
 
@@ -27,20 +27,20 @@ console.log() menampilkan teks ke “Console” di browser (F12 → tab Console)
 
 eksternal.js dipanggil dari HTML pakai tag <script src="...">.
 
-'''
+```
 
 **gambar3**
 ![foto](https://github.com/Indahwakifa/lab5web/blob/1b114735fed3b18344fc68e17105bf3d2f306c4a/foto/jvs3.png)
 
 **penjelasan**
 
-'''Penjelasan:
+```Penjelasan:
 
 window.alert() → menampilkan pesan pop-up ke pengguna.
 
 <!-- ... //--> adalah gaya lama untuk menyembunyikan script dari browser lama (nggak wajib di browser modern).
 
-'''
+```
 
 **gambar4**
 ![foto](https://github.com/Indahwakifa/lab5web/blob/0b53e008ae465005107683f824a925b6eae55046/foto/jvs4.png)
