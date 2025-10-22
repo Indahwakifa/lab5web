@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>Validasi Form</title>
+</head>
+<body>
+    <h2>Form dengan Validasi</h2>
+    <form name="formValidasi" onsubmit="return validasi()">
+        Nama: <input type="text" name="nama"><br><br>
+        Email: <input type="text" name="email"><br><br>
+        <input type="submit" value="Kirim">
+    </form>
+
+    <script language="javascript">
+    <!--
+        function validasi() {
+            var nama = document.formValidasi.nama.value;
+            var email = document.formValidasi.email.value;
+
+            if (nama == "" || email == "") {
+                alert("Nama dan Email harus diisi!");
+                return false;
+            } else {
+                alert("Data berhasil dikirim!");
+                return true;
+            }
+        }
+    //-->
+    </script>
+</body>
+</html>
