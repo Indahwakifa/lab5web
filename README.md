@@ -20,4 +20,6 @@
 
 ![foto](https://github.com/Indahwakifa/lab5web/blob/0f4f48176ad69e81cfa0b6c23440262750df6255/foto/jvs10.png)
 
+![foto](https://github.com/Indahwakifa/lab5web/blob/7f2e96c1807acf7b9b7b7aa4f3a74503ec6a892d/foto/jvs11.png)
+
 ![foto](
