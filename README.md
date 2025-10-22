@@ -11,7 +11,6 @@ window.alert("...") → munculkan kotak pesan (alert box).
 document.write("...") → tampilkan teks langsung di halaman web.
 
 console.log("...") → kirim pesan ke console browser.
-
 '''
 
 **gambar 2**
